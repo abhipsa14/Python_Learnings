@@ -17,4 +17,4 @@ p3= 12.34
 
 print(f"Price 1 is {p1:.3f}")
 print(f"Price 2 is {p2:,}")
-print(f"Price 3 is {p3:>}")
+print(f"Price 3 is {p3:<3.4f}")

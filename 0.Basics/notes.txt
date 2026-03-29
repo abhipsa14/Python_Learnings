@@ -1,0 +1,10 @@
+Why Python?
+1. Design Philosphy
+2. Batteries Included -> codes avialable, no scratch coding
+3. General purpose
+4. Libraries/communities
+
+Why Python for Data Science?
+1. Easy to learn
+2. Proximity with Maths -> domain in Maths
+3. Community
