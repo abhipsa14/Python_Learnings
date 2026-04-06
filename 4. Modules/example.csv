@@ -1,2 +1,5 @@
-name,age
-abhi,21
+name,age,occupation
+abhi,21,engineer
+anshika,22,designer
+alok,23,manager
+bina,24,analyst
