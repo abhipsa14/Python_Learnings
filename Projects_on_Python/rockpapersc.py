@@ -5,3 +5,4 @@ computer=random.choice(options)
 player= input("Enter a choice(rock,paper,scissors):")
 
 print(f"Player:{player}")
+
